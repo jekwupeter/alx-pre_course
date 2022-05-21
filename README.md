@@ -1,1 +1,2 @@
-My firs readme
+My first readme from bash
+commit from github
